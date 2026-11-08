@@ -1,0 +1,19 @@
+{
+  "name": "Principe Wetter App",
+  "short_name": "Principe Wetter",
+  "description": "Wetter: DWD ICON-D2, MOSMIX, ECMWF, Regenradar.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "id": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#111E3B",
+  "theme_color": "#111E3B",
+  "categories": ["weather"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
